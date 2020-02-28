@@ -1,2 +1,2 @@
 # Hidden or Not ?
-Aplikasi kegabutan
+Aplikasi kegabutan, cocok untuk pengguna yg ingin menyimpan something xD
