@@ -1,2 +1,4 @@
-# Hidden or Not ?
-Aplikasi kegabutan, cocok untuk pengguna yg ingin menyimpan something xD
+# Aplikasi Kegabutan
+
+1. Hidden or Not >> Berfungsi untuk hidden & unhidden file
+2. Goodransom >> Berfungsi untuk merubah dan mengembalikan file komputer
